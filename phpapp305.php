@@ -11,3 +11,4 @@ if($nationality == "Thailand"){
         echo "not Eligible to give vote";
     }
 }
+
